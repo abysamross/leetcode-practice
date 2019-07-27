@@ -1,5 +1,5 @@
 /*
- * Add 2 small (lengthwise) enough strings.
+ * Add 2 short enough strings made only of chars 0-9.
  */
 class Solution {
     
