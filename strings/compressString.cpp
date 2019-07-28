@@ -2,6 +2,7 @@
  * Compress a string in place by replacing repeating chars in the string with 
  * that char and the # times it repeat (if # > 1) and return the length of the
  * compressed string.
+ * https://leetcode.com/problems/string-compression/
  */
 class Solution {
 
